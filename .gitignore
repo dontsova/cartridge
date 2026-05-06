@@ -14,5 +14,6 @@ composer.lock
 symfony.lock
 .env
 .env.dev
+.editorconfig
 /.idea/
 ###< symfony/framework-bundle ###
